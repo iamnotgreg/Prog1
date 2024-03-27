@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "/home/greg/Prog1/Get_string/prog1.h"
+#include "prog1.h"
 
 
 int main()
