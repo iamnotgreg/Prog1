@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include "prog1.h"
+#include "prog1.c"
 
 int is_strong_password(string s)
 {
