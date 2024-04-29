@@ -72,7 +72,7 @@ int main()
     kiir(MAX, eredeti);
     kiir(MAX, rendezett);
 
-    
+    free(rendezett);
 
     return 0;
 }
